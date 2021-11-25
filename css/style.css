@@ -140,7 +140,7 @@ select {
 
 .enviar:hover {
     background: #FF8C00;
-    transform: scale(1.2);
+    transform: scale(1.1);
 }
 
 table {
@@ -259,7 +259,7 @@ p:first-line {
     margin: 2em auto;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1300px) {
     .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video {
         width: auto;
     }
@@ -304,11 +304,12 @@ p:first-line {
     /* responsividade página contato*/
 
     .input-padrao {
-        width: 80%;
+        width: 60%;
+        border: 1px solid #000000;
     }
 
     .enviar {
-        width: 80%;
+        width: 200px;
     }
 
     select {
@@ -319,12 +320,16 @@ p:first-line {
 
     /* responsividade página produto*/
     .produtos {
-        width: 80%;
+        width: 98%;
     }
 
     .produtos li {
         display: block;
         width: auto;
         margin: 2em 0;
+    }
+
+    .produto li img {
+        width: 10px;
     }
 }
