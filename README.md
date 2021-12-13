@@ -23,4 +23,4 @@ Posso listar alguns dos meus aprendizados obtidos graças a este projeto de site
 * Animações com CSS;
 * Estilização com CSS;
 * Responsividade;
-* E mais outros conhecimentos
+* E mais outros conhecimentos.
