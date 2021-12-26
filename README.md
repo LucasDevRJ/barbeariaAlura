@@ -1,19 +1,4 @@
-# LucasDevRJ-capa![LucasDevRJ-capa](https://user-images.githubusercontent.com/95040236/147413863-7b397c11-585b-4d42-b195-7c309e20e89b.png)
-
-## Tópicos 
-
-* [Sobre](#sobre)
-* [Funcionalidades do Projeto](#funcionalidades-do-projeto)
-* [Acesso ao Projeto](#acesso-ao-projeto)
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
-* [Conclusão](#conclusão)
+![LucasDevRJ-capa](https://user-images.githubusercontent.com/95040236/147413863-7b397c11-585b-4d42-b195-7c309e20e89b.png)
 
 <h1 align="center"> Barbearia Alura </h1>
 
