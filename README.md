@@ -3,8 +3,8 @@
 ## Tópicos 
 
 * [Sobre](#sobre)
-* [Badges](#badges)
-* [Índice](#índice)
+* [Funcionalidades do Projeto](#funcionalidades-do-projeto)
+* [Acesso ao Projeto](#acesso-ao-projeto)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-Projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
@@ -29,7 +29,7 @@ A 'Barbearia Alura' foi um projeto guiado que realizei nos cursos de [HTML e CSS
 
 ![Badge Projeto Não Autoral](https://img.shields.io/badge/Desenvolvedor-LucasDevRJ-brightgreen)
 
-## :hammer: Funcionalidades do projeto
+## :hammer: Funcionalidades do Projeto
 
 - `Funcionalidade 1`: Site criado com somente HTML/CSS com o objetivo de aprender essas tecnologias.
 
