@@ -1,4 +1,4 @@
-![LucasDevRJ-capa](https://user-images.githubusercontent.com/95040236/147413863-7b397c11-585b-4d42-b195-7c309e20e89b.png)
+![LucasDevRJ - Capa](https://user-images.githubusercontent.com/95040236/147415952-3be56c26-f85d-4489-bb6b-e32128ac7ce3.png)
 
 <h1 align="center"> Barbearia Alura </h1>
 
