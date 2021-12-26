@@ -1,8 +1,23 @@
-![Inserir um título](https://user-images.githubusercontent.com/95040236/147413863-7b397c11-585b-4d42-b195-7c309e20e89b.png)
+# LucasDevRJ-capa![LucasDevRJ-capa](https://user-images.githubusercontent.com/95040236/147413863-7b397c11-585b-4d42-b195-7c309e20e89b.png)
+
+## Tópicos 
+
+* [Sobre](#sobre)
+* [Badges](#badges)
+* [Índice](#índice)
+* [Descrição do Projeto](#descrição-do-projeto)
+* [Status do Projeto](#status-do-Projeto)
+* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Acesso ao Projeto](#acesso-ao-projeto)
+* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Pessoas Contribuidoras](#pessoas-contribuidoras)
+* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
+* [Licença](#licença)
+* [Conclusão](#conclusão)
 
 <h1 align="center"> Barbearia Alura </h1>
 
-## Sobre
+# Sobre
 
 A 'Barbearia Alura' foi um projeto guiado que realizei nos cursos de [HTML e CSS](https://cursos.alura.com.br/course/html5-css3-avancando-css) da [Alura](https://alura.com.br). Neste projeto você encontrará formulário, imagens com relação ao tema, caixas para estilizar e deixar com um design diferente e bonito, animações com CSS e reponsividade em todas às três páginas.
 
@@ -54,3 +69,7 @@ Posso listar alguns dos meus aprendizados obtidos graças a este projeto de site
 * Estilização com CSS;
 * Responsividade;
 * E mais outros conhecimentos.
+
+## Autores
+
+[<img src="https://avatars.githubusercontent.com/u/95040236?v=4" width=115><br><sub>Lucas Pereira de Lima</sub>](https://github.com/LucasDevRJ)
