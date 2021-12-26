@@ -17,7 +17,7 @@
 
 <h1 align="center"> Barbearia Alura </h1>
 
-# Sobre
+## Sobre
 
 A 'Barbearia Alura' foi um projeto guiado que realizei nos cursos de [HTML e CSS](https://cursos.alura.com.br/course/html5-css3-avancando-css) da [Alura](https://alura.com.br). Neste projeto você encontrará formulário, imagens com relação ao tema, caixas para estilizar e deixar com um design diferente e bonito, animações com CSS e reponsividade em todas às três páginas.
 
