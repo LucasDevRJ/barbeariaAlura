@@ -20,15 +20,20 @@ A 'Barbearia Alura' foi um projeto guiado que realizei nos cursos de [HTML e CSS
 
 ## 📁 Acesso ao projeto
 
-1. Clique no repositorio para o donwload;
+1. Clique no <a href="https://github.com/LucasDevRJ/barbeariaAlura">repositorio</a> para o donwload;
 2. Descompacte o repositorio;
 3. Coloque o repositorio descompactado em alguma IDE;
 4. Agora poderá mexer e até editar o projeto.
 
 ## 🛠️ Abrir e rodar o projeto
 
-* Precisa ter o donwload do projeto em seu computador;
+* Precisa ter o donwload do <a href="https://github.com/LucasDevRJ/barbeariaAlura">projeto</a> em seu computador;
 * Precisa ter alguma IDE.
+* IDE recomendada: <a href="https://code.visualstudio.com/">Visual Studio Code</a>
+
+## Tecnologias Utilizadas
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> 
 
 ## Minhas Alterações
 Eu realizei algumas alterações no projeto original da 'Barbearia Alura' e irei lista-los aqui:
