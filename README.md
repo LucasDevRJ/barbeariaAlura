@@ -1,3 +1,5 @@
+![Inserir um título](https://user-images.githubusercontent.com/95040236/147413863-7b397c11-585b-4d42-b195-7c309e20e89b.png)
+
 # Barbearia Alura
 ## Sobre
 
